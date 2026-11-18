@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+*.local
+data/wikidataManagers.json.checkpoint
+data/wikidataManagers.json.tmp

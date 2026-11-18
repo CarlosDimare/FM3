@@ -1,0 +1,6 @@
+{
+  "name": "Táctica 3D — Simulador de Partidos",
+  "description": "Simulador táctico realista de partidos de fútbol en 3D con motor físico e inteligencia artificial en tiempo real, decisiones desde el banquillo y analítica avanzada xG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
